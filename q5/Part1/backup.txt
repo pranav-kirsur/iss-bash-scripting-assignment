@@ -1,0 +1,32 @@
+locale-gen (8)       - generates localisation files from templates
+logrotate (8)        - rotates, compresses, and mails system logs
+loadkeys (1)         - load keyboard translation tables
+loadunimap (8)       - load the kernel unicode-to-font mapping table
+lobase (1)           - LibreOffice office suite
+localc (1)           - LibreOffice office suite
+locale (1)           - get locale-specific information
+locale (5)           - describes a locale definition file
+locale (7)           - description of multilanguage support
+localectl (1)        - Control the system locale and keyboard layout settings
+localedef (1)        - compile locale definition files
+locate (1)           - find files by name
+lodraw (1)           - LibreOffice office suite
+loffice (1)          - LibreOffice office suite
+lofromtemplate (1)   - LibreOffice office suite
+logger (1)           - enter messages into the system log
+logname (1)          - print user's login name
+logresolve (1)       - Resolve IP-addresses to hostnames in Apache log files
+loimpress (1)        - LibreOffice office suite
+lomath (1)           - LibreOffice office suite
+look (1)             - display lines beginning with a given string
+lorder (1)           - list dependencies for object files
+loweb (1)            - LibreOffice office suite
+lowriter (1)         - LibreOffice office suite
+logsave (8)          - save the output of a command in a logfile
+losetup (8)          - set up and control loop devices
+loadkeys (1)         - load keyboard translation tables
+login (1)            - begin session on the system
+login (3)            - write utmp and wtmp entries
+loginctl (1)         - Control the systemd login manager
+lowntfs-3g (8)       - Third Generation Read/Write NTFS Driver
+lolcat (6)           - rainbow coloring for text
