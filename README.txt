@@ -1,6 +1,7 @@
-Submission of Pranav Kirsur
-Roll No. 2018101070
-Group A
+Bash Scripting assignment
+
+Built as part of the introduction to software systems course at IIIT Hyderabad.
+Includes a simple music library system and a pomodoro timer, using purely bash scripting.
 
 ******************************************************************************************
 Note:
